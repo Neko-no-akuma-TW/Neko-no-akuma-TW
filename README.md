@@ -1,4 +1,6 @@
-### Hi there 👋
+### 哈囉👋
+
+- 我正在學習Pycord https://cdn.discordapp.com/emojis/881477002991915048.webp?size=96&quality=lossless
 
 <!--
 **Neko-no-akuma-TW/Neko-no-akuma-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
