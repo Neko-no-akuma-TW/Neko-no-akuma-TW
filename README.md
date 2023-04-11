@@ -1,33 +1,33 @@
-### 哈囉👋
+<h1 align="center">
+  <a href="https://github.com/Neko-no-akuma">貓妖の翔 | 貓妖 | Neko</a>
 
-- 我正在學習Pycord
+  <br />
 
-- 你可以詢問我...
-- Pycord, Discord.py, Python的問題，我會盡力為你解答
+  ![https://avatars.githubusercontent.com/u/80331285?v=4](https://avatars.githubusercontent.com/u/80331285?size=128)
+</h1>
 
-- 如何與我聯絡？
-- 到我的[DC群組](http://cyks.pse.is/dcgiv)
+## 👨🏻‍💻 About me
 
-執行Neko no akuma
-```py
-import Neko_no_akuma
+- 🔭 &nbsp; I’m currently learning `Basic Electricity` school...
+- 💼 &nbsp; student? (Fushan Junior High School)
 
-client = Neko_no_akuma.client()
+## 🛠 Tech Stack
 
-client.run()
-```
+- 💻 &nbsp; | `Visual Basic` | `Python` |
+- 🌐 &nbsp; | `HTML5` | `CSS3` |
+- 🛢 &nbsp; | `MongoDB` | `SQLite` | `MYSQL` |
+- 🔧 &nbsp; | `Visual Studio code` | `Git` | `Docker` | `PyCharm` |
+- 🖥 &nbsp; | `repl.it` | `Raspberry` |
 
-<!--
-**Neko-no-akuma-TW/Neko-no-akuma-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neko-no-akuma-TW&show_icons=true&theme=radical" />
+  <br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical&locale=cn" />
+  <br /> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical&locale=cn" />
+  <br /> -->
+</p>
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- icons https://github.com/Envoy-VC/awesome-badges -->
