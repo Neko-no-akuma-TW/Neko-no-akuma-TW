@@ -9,7 +9,6 @@
 ## 👨🏻‍💻 About me
 
 - 🔭 &nbsp; I’m currently learning `Basic Electricity` school...
-- 💼 &nbsp; student? (Fushan Junior High School)
 
 ## 🛠 Tech Stack
 
