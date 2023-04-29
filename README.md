@@ -1,32 +1,38 @@
-<h1 align="center">
-  <a href="https://github.com/Neko-no-akuma">貓妖の翔 | 貓妖 | Neko</a>
+  <h1 align="center">Hi there I'm Neko</h1>
+  <p align="center"> I'm a Industrial Designer / Youtuber </p>
+  <div align="center">
+    <a href="https://www.youtube.com/channel/@neko_tw">
+    </a>
+    <a href="https://www.youtube.com/channel/@meko_tw">
+    </a>
+    <br />
+    <br />
+    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=react">
+  </div>
+  
+  <!--  View Count  -->
+  <div align="center">
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Neko-no-akuma-TW?theme=moebooru"></a>
+  </div>
+  
+  <table align="center">
+    <tbody>
+      <tr>
+        <td>
+          <img align="center" src="https://i.imgur.com/eLWkZMx.gif" height="470">
+        </td>
+        <td>
+          <!--  Main Info  -->
+          <img  src="/github-metrics.svg" alt="Metrics" width="400">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+  ---
+  
+  [![My Skills](https://skillicons.dev/icons?i=arduino,atom,aws,azure,bash,cloudflare,discord,django,docker,firebase,flask,gcp,git,github,githubactions,gitlab,html,instagram,linux,md,mongodbmysql,nginx,php,postman,powershell,py,rapberrypi,sqlite,stackoverflow,twitter,visualstudio,vscode,wordpress)](https://skillicons.dev)
+  
 
-  <br />
 
-  ![https://avatars.githubusercontent.com/u/80331285?v=4](https://avatars.githubusercontent.com/u/80331285?size=128)
-</h1>
 
-## 👨🏻‍💻 About me
-
-- 🔭 &nbsp; I’m currently learning `Basic Electricity` school...
-
-## 🛠 Tech Stack
-
-- 💻 &nbsp; | `Visual Basic` | `Python` |
-- 🌐 &nbsp; | `HTML5` | `CSS3` |
-- 🛢 &nbsp; | `MongoDB` | `SQLite` | `MYSQL` |
-- 🔧 &nbsp; | `Visual Studio code` | `Git` | `Docker` | `PyCharm` |
-- 🖥 &nbsp; | `repl.it` | `Raspberry` |
-
-<p align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Neko-no-akuma-TW&show_icons=true&theme=radical" />
-  <br/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&layout=compact&theme=radical&locale=cn" />
-  <br /> -->
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3510377&langs_count=8&theme=radical&locale=cn" />
-  <br /> -->
-</p>
-<hr>
-
-<!-- icons https://github.com/Envoy-VC/awesome-badges -->
