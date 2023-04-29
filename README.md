@@ -17,7 +17,7 @@
   
   ---
   
-  [![My Skills](https://skillicons.dev/icons?i=arduino,atom,aws,azure,bash,cloudflare,discord,django,docker,firebase,flask,gcp,git,github,githubactions,gitlab,html,instagram,linux,md,mongodb,mysql,nginx,php,postman,powershell,py,rapberrypi,sqlite,stackoverflow,twitter,visualstudio,vscode,wordpress)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arduino,atom,aws,azure,bash,cloudflare,discord,django,docker,firebase,flask,gcp,git,github,githubactions,gitlab,html,instagram,linux,md,mongodb,mysql,nginx,php,postman,powershell,py,raspberrypi,sqlite,stackoverflow,twitter,visualstudio,vscode,wordpress)](https://skillicons.dev)
   
 
 
