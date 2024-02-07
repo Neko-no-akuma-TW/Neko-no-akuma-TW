@@ -17,7 +17,7 @@
   
   ---
   
-  [![My Skills](https://skillicons.dev/icons?i=atom,aws,azure,bash,cloudflare,discord,django,docker,flask,git,github,html,instagram,linux,md,mongodb,nginx,postman,powershell,py,raspberrypi,sqlite,stackoverflow,twitter,visualstudio,vscode,wordpress)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,discord,docker,flask,git,github,html,instagram,linux,md,mongodb,nginx,postman,powershell,py,raspberrypi,sqlite,stackoverflow,twitter,visualstudio,vscode,wordpress)](https://skillicons.dev)
   
 
 
