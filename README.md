@@ -1,5 +1,5 @@
   <h1 align="center">Hi there I'm Neko</h1>
-  <p align="center"> I'm a Industrial Designer / Youtuber </p>
+  <p align="center"> I'm a Programmer / Youtuber </p>
   <div align="center">
     <a href="https://www.youtube.com/channel/@neko_tw">
     </a>
