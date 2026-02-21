@@ -17,7 +17,7 @@
   
   ---
   
-  [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cloudflare,debian,discord,bot,docker,fastapi,flask,git,github,gmail,html,linux,md,nginx,obsidian,postman,powershell,pycharm,py,raspberrypi,replit,sqlite,stackoverflow,supabase,selenium,twitter,ubuntu,vim,visualstudio,vscode,windows,wordpress)](https://dybts.qzz.io)
+  [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cloudflare,debian,discord,docker,fastapi,flask,git,github,gmail,html,linux,md,nginx,obsidian,postman,powershell,pycharm,py,raspberrypi,replit,sqlite,stackoverflow,supabase,selenium,twitter,ubuntu,vim,visualstudio,vscode,windows,wordpress)](https://dybts.qzz.io)
   
 
 
