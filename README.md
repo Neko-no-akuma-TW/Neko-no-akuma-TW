@@ -4,6 +4,8 @@
     <img alt="Github Readme Stats" src="https://github-readme-stats-kappa-lovat-75.vercel.app/api?username=Neko-no-akuma-TW&show_icons=true&theme=react">
   </div>
   
+  ---
+  
   <!--  View Count  -->
   <div align="center">
     <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Neko-no-akuma-TW?theme=moebooru"></a>
