@@ -3,11 +3,9 @@
   <div align="center">
     <a href="https://www.youtube.com/channel/@neko_tw">
     </a>
-    <a href="https://www.youtube.com/channel/@neko_tw">
-    </a>
     <br />
     <br />
-    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Neko-no-akuma-TW&show_icons=true&theme=react">
+    <img alt="Github Readme Stats" src="https://github-readme-stats-kappa-lovat-75.vercel.app/api?username=Neko-no-akuma-TW&show_icons=true&theme=react">
   </div>
   
   <!--  View Count  -->
