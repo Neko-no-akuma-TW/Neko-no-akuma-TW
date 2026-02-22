@@ -1,10 +1,6 @@
   <h1 align="center">Hi there I'm Neko</h1>
   <p align="center"> I'm a Programmer / Youtuber </p>
   <div align="center">
-    <a href="https://www.youtube.com/channel/@neko_tw">
-    </a>
-    <br />
-    <br />
     <img alt="Github Readme Stats" src="https://github-readme-stats-kappa-lovat-75.vercel.app/api?username=Neko-no-akuma-TW&show_icons=true&theme=react">
   </div>
   
