@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python             13 mins               █████████████████▓░░░░░░░   70.39 %
+SQL                3 mins                █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+Markdown           1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Text               0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Requirements.txt   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
