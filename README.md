@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           31 mins               ██████████████████▓░░░░░░   74.10 %
-GitIgnore file   10 mins               ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-.env file        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Text             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
