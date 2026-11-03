@@ -8,7 +8,7 @@
   
   <!--  View Count  -->
   <div align="center">
-    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Neko-no-akuma-TW?theme=moebooru"></a>
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@Neko-no-akuma-TW-GitHub?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"></a>
   </div>
   
   ---
